@@ -8,7 +8,6 @@
   </a>
   </div>
     <hr></hr>
-    <br/>
   <div>
   <h2>About me:</h2>
   <ul>
@@ -20,7 +19,6 @@
   </div>
     <br/>
     <hr></hr>
-    <br/>
   <div>
   <h2>Languages</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -31,7 +29,6 @@
   </div>
     <br/>
     <hr></hr>
-    <br/>
   <div>
   <h2>FrameWorks and Libraries</h2>
    <img src="https://camo.githubusercontent.com/1abc769ed3486dd4eff0d2a33ede82bb8e1039dcf5b57f05c086c0841ca70f38/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f616e67756c61726a732d6f726967696e616c2e737667" alt="Angular" width="50"/>
