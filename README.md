@@ -1,7 +1,7 @@
-<h1 align="center"> Hello, I'm Nada :)</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="400"/>
 </div>
+<h1 align="center"> Hello, I'm Nada :)</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nada-kohya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
