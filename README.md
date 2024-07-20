@@ -11,9 +11,9 @@
   <div>
   <h2>About me:</h2>
   <ul>
-  <li>I'm a Full Stack developer (.Net + Angular).</li>
-  <li>I graduated From Mechanical Power Department at Faculty of Engineering. And after graduation I put my first steps in the programming path.</li>
-  <li>I've got 9-Month Technical Diploma From Information Technology Institute in Web Development and BI.</li>
+  <li>I'm a Full Stack developer (.Net + Angular) at ITIDA.</li>
+  <li>I graduated From Mechanical Power Department at Faculty of Engineering.</li>
+  <li>After graduation, I joined Information Technology Institute and I got 9-Month Technical Diplom in Web Development and BI.</li>
   <li>I love cats</li>
   </ul>
   </div>
